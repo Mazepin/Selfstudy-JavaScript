@@ -1,5 +1,6 @@
 body {
     font-family: "Trirong", serif;
+    
 }
 
 h1,h2,h3,h4,h5,h6,p {
@@ -128,3 +129,10 @@ h3{
   font-size: 10pt;
   
 }
+/*
+.main-decription-item{
+  border: 1px solid #727070;
+  border-radius: 5px;
+  background-color: #dce4dc;
+
+}*/
